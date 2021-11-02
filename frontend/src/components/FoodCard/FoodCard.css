@@ -1,0 +1,36 @@
+.foodCard{
+  /* border: 1px solid black; */
+  max-height: 400px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  background-color: white;
+  padding: 10px;
+  /* box-shadow: 5px 10px 10px black; */
+}
+.foodCard:hover{
+  /* border: 1px solid black; */
+  box-shadow: 5px 10px 10px black;
+}
+
+.foodPicture{
+  max-height: 250px;
+  width: 100%;
+  object-fit:contain ;
+  margin-bottom: 15px;
+  border-radius: 20px;
+}
+
+.food_title{
+  font-size: large;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 3px;
+  text-decoration: underline;
+}
+
+.bottom{
+  font-size: 15px;
+  font-weight: 700;
+}
+
+

@@ -1,0 +1,25 @@
+.recipe_section{
+  border: 4px solid black;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.filterBar{
+  padding: 5px;
+  background-color: burlywood;
+  border: 1px solid black;
+  text-align: start;
+}
+
+.homeMade{
+  font-size: 6rem;
+  font-family: cursive;
+  color: brown;
+  padding: 3px !important;
+}
+
+.homeMade2{
+  font-size: 2rem;
+  /* font-family: cursive; */
+  color: rgb(82, 25, 3);
+}

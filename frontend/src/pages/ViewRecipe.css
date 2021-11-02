@@ -1,0 +1,25 @@
+.dishTitle{
+  text-align: left;
+  text-transform:capitalize;
+}
+
+.dishImage{
+  border-radius: 10px;
+}
+
+.dishDescription{
+  text-align: left;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.viewRecipeHeader{
+  background-color: orange;
+}
+
+.dishCategory{
+  /* text-align: left; */
+  background-color: white;
+  border-radius: 15px;
+  padding: 3px;
+}
